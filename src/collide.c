@@ -71,9 +71,8 @@ int main() {
 
         EndDrawing();
     }
-
     CloseWindow();
-    return 1;
+    return 0;
 }
 
 void PlayerMovment(Ball* PLAYER) {
